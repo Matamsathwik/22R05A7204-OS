@@ -26,5 +26,5 @@ printf("\n %d\t %d\t %d\t %d",i+1,bt[i],wt[i],tat[i]);
 awt=(float)twt/n;
 atat=(float)ttat/n;
 printf("\nAvg. Waiting Time=%f",awt);
-printf("\nAvg. Turn around time=%f\n",atat);
+printf("\nAvg. Turn Around time=%f\n",atat);
 }
